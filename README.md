@@ -1,22 +1,22 @@
 # Canoafurada - A project for microservices class.
 
-A Spring Boot project built with a microservice architecture following OOP principles and with both REST and Messaging queues communication between the services.
+A Spring Boot project built with a microservice architecture following OOP principles and with both REST and Messaging queues (Kafka) communication between the services.
+
+Professor : [Edson Sensato](https://github.com/esensato)
 
 ### Context
 "A cruise company called Canoa Furada decided to invest in a system for booking cabins on its ships and
 in a technical meeting opted for the microservices architecture for this implementation."
 
-Professor : [Edson Sensato](https://github.com/esensato)
-
 ## Links
 
 ### Services
 
-[gateway](https://github.com/PedroMiotti/espm.ms.canoafurada.gateway) - Service discovery gateway. **Port: 8761** </br>
-[invoice service](https://github.com/PedroMiotti/espm.ms.canoafurada.invoice) - Responsible for creating invoices for successfully booked cabins. **Port: 8085** </br>
-[cabin service](https://github.com/PedroMiotti/espm.ms.canoafurada.cabin) - Responsible for managing cabins. **Port: 8083**</br>
-[booking service](https://github.com/PedroMiotti/espm.ms.canoafurada.booking) - Responsible for managing bookings. **Port: 8082**</br>
-[user service](https://github.com/PedroMiotti/espm.ms.canoafurada.user) - Responsible for managing users. **Port: 8084** </br>
+[Gateway](https://github.com/PedroMiotti/espm.ms.canoafurada.gateway) - Service discovery gateway. **Port: 8761** </br>
+[Invoice service](https://github.com/PedroMiotti/espm.ms.canoafurada.invoice) - Responsible for creating invoices for successfully booked cabins. **Port: 8085** </br>
+[Cabin service](https://github.com/PedroMiotti/espm.ms.canoafurada.cabin) - Responsible for managing cabins. **Port: 8083**</br>
+[Booking service](https://github.com/PedroMiotti/espm.ms.canoafurada.booking) - Responsible for managing bookings. **Port: 8082**</br>
+[User service](https://github.com/PedroMiotti/espm.ms.canoafurada.user) - Responsible for managing users. **Port: 8084** </br>
 
 
 ## Basic architecture
