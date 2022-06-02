@@ -1,4 +1,4 @@
-# Canoafurada - A project for microservices class
+# :ship: Canoafurada - A project for microservices class
 
 A Spring Boot project built with a microservice architecture following OOP principles and with both REST and Messaging queues (Kafka) communication between the services.
 
@@ -18,8 +18,8 @@ in a technical meeting opted for the microservices architecture for this impleme
 [Booking service](https://github.com/PedroMiotti/espm.ms.canoafurada.booking) - Responsible for managing bookings. **Port: 8082**</br>
 [User service](https://github.com/PedroMiotti/espm.ms.canoafurada.user) - Responsible for managing users. **Port: 8084** </br>
 
-Obs: Each service has its own documentation
-swagger-ui : <url>/api/swagger-ui/index.html
+Obs: Each service has its own documentation </br>
+swagger-ui : <url>/api/swagger-ui/index.html </br>
 actuator: <url>/api/actuator
 
 ## Basic architecture
