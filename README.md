@@ -1,4 +1,4 @@
-# Canoafurada - A project for microservices class.
+# Canoafurada - A project for microservices class
 
 A Spring Boot project built with a microservice architecture following OOP principles and with both REST and Messaging queues (Kafka) communication between the services.
 
