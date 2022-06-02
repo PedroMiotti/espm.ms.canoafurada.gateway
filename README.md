@@ -18,6 +18,9 @@ in a technical meeting opted for the microservices architecture for this impleme
 [Booking service](https://github.com/PedroMiotti/espm.ms.canoafurada.booking) - Responsible for managing bookings. **Port: 8082**</br>
 [User service](https://github.com/PedroMiotti/espm.ms.canoafurada.user) - Responsible for managing users. **Port: 8084** </br>
 
+Obs: Each service has its own documentation
+swagger-ui : <url>/api/swagger-ui/index.html
+actuator: <url>/api/actuator
 
 ## Basic architecture
 
