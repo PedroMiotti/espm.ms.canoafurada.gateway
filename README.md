@@ -1,8 +1,6 @@
-# :ship: Canoafurada - A project for microservices class
+# :ship: Canoafurada 
 
 A Spring Boot project built with a microservice architecture following OOP principles and with both REST and Messaging queues (Kafka) communication between the services.
-
-Professor : [Edson Sensato](https://github.com/esensato)
 
 ### Context
 "A cruise company called Canoa Furada decided to invest in a system for booking cabins on its ships and
